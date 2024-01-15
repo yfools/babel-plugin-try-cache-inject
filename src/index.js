@@ -73,8 +73,4 @@ function babelPluginTryCacheInject(babel) {
   };
 }
 
-// ClassMethod(path){
-//     path.get('body').unshiftContainer('body', t.expressionStatement(t.stringLiteral('before')));
-//    path.get('body').pushContainer('body', t.expressionStatement(t.stringLiteral('after')));
-//  }
 module.exports = babelPluginTryCacheInject;
