@@ -17,7 +17,7 @@
     "url": "https://github.com/yfools/babel-plugin-try-cache-inject/issues"
   },
   "homepage": "https://github.com/yfools/babel-plugin-try-cache-inject#readme",
-  "dependencies": {
+  "devDependencies": {
     "@babel/core": "^7.23.7",
     "@babel/parser": "^7.23.6",
     "babel-types": "^6.26.0",
